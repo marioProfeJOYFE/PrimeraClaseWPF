@@ -24,7 +24,6 @@ namespace PrimeraClase
 
             // Comentario de una sola línea
             int numero = 5;
-            int numero2 = 10;
             int resultado = numero + numero2;
             /* Comentario
              * de
